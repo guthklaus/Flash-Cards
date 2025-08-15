@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(17, 17, 255);
+    background-color: rgb(255, 255, 255);
     font-family: Bai Jamjuree;
 }
 
@@ -34,7 +34,7 @@ cartão {
 footer {
 
     background-color: black;
-    color: rgb(55, 254, 71);
+    color: rgb(255, 255, 255);
     position: fixed;
     bottom: 0;
     width: 100%;
