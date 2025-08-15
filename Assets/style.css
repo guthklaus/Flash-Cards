@@ -17,8 +17,8 @@ cartão {
 
 .cartao__conteudo {
     text-align: center;
-    background-color: aqua
-/*
+    background-color: aqua;
+    height: 100%;
 }
 
 
