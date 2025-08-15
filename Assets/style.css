@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(254, 254, 255);
+    background-color: rgb(17, 17, 255);
     font-family: Bai Jamjuree;
 }
 
@@ -9,7 +9,7 @@ body {
 
 cartão {
     margin: 1rem 1rem;
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
     height: 20rem;
     flex-grow: 1
     flex-basis:calc(33% - 6rem )
@@ -17,7 +17,7 @@ cartão {
 
 .cartao__conteudo {
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(0, 0, 0);
     height: 100%;
 }
 
