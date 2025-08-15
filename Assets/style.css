@@ -22,7 +22,7 @@ cartão {
 }
 
 .cartao__conteudo h3 {
-    background-color: blueviolet;
+    background-color: rgb(251, 251, 251);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
