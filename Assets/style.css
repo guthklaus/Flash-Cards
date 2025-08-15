@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: rgb(254, 254, 255);
     font-family: Bai Jamjuree;
 }
 
@@ -9,7 +9,7 @@ body {
 
 cartão {
     margin: 1rem 1rem;
-    
+    background-color: aqua;
     height: 20rem;
     flex-grow: 1
     flex-basis:calc(33% - 6rem )
